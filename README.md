@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on applying Machine Learning models to Kaggle datasets and creating data arts
-- :microscope: I am Data Scientist consultant at [Accenture](https://www.accenture.com/us-en) focusing on retail and logistic businesses
+- :microscope: I am Data Scientist consultant focusing on retail and logistic businesses
 - 🌱 I’m currently learning on how to apply data science to sustainability projects
 - 👯 I’m looking to collaborate on research projects, data visualization, and sports analytics
 - 💬 Ask me about data science in sports analytics
